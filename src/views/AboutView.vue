@@ -13,7 +13,7 @@
                       </div>
                       <div class="row intro-text justify-content-center">
                           <p><b>＃什麼是 Minecraft?</b></p>
-                          <iframe class="mb-3" height="450" src="https://www.youtube.com/embed/gp7kCCGzq-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                          <iframe class="mb-3" height="100%" src="https://www.youtube.com/embed/gp7kCCGzq-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           <p>Minecraft 是由瑞典遊戲設計師，Markus Persson 單獨開發的沙盒遊戲。
                              其後他於 2009年成立瑞典公司 Mojang 繼續開發並發行。在 2014年9月，
                              他把 Minecraft 以25億美元賣給微軟。至2020年統計，Minecraft統計全球
